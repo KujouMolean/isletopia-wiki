@@ -1,10 +1,7 @@
-module.exports = {
-  collapsable: true,
-  '/guide/': [
-    'introduction',
-    'tutorial',
-    'get-items',
-    'modification',
-    'faq'
-  ],
-}
+module.exports = [
+      'introduction',
+      'faq',
+      'tutorial',
+      'material',
+      'modification',
+    ]
